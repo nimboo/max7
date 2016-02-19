@@ -196,7 +196,7 @@ local function run(msg, matches)
 	 text = text..'نام گروه : '..msg.to.title..'\n'
      text = text..'ایدی گروه : '..msg.to.id
     end
-	text = text..'\n\nnod32 edited version'
+	text = text..'\n\ntelespeed v2.1'
     return send_msg(receiver, text, ok_cb, true)
     end
   end
