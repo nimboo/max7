@@ -243,15 +243,11 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {67559249},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
-]],
     help_text_realm = [[
 Realm Commands:
 
@@ -484,17 +480,8 @@ NOD32 Commands list :
 دعوت سازنده ربات به گروه
 (در صورت وجود مشکل)
 
-!version
-ورژن ربات
-
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
-
-Developer: @BehroozYaghi
-توسعه دهنده
-
-channel: @Nod32team
-کانال ما
 
 G00D LUCK ^_^
 ]]
