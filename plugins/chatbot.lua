@@ -4,12 +4,12 @@ if msg.text == "Mohammad" then
 	return "کی اسم سازندمو صدا زد؟"
 end
 if msg.text == "Umbrella" then
-	return "کیر tele speed هم نیس"
+	return "کیر tele sniper هم نیس"
 end
 if msg.text == "umbrella" then
-	return "کیر tele speed هم نیس"
+	return "کیر tele sniper هم نیس"
 end
-if msg.text == "Telespeed" then
+if msg.text == "Telesniper" then
 	return "hum?"
 end
 if msg.text == "اسپم" then
@@ -46,7 +46,7 @@ if msg.text == "?" then
 	return "Hum??"
 end
 if msg.text == "بای" then
-	return "برو به سلامت سیکتیرکن"
+	return "برو به سلامت "
 end
 if msg.text == "XY" then
 	return "کس ننت میگام سیکتیر اوبی"
@@ -76,7 +76,7 @@ return {
 		"^Xy$",
 		"^XY$",
 		"^?$",
-		"^telespeed$"
+		"^Telesniper$"
 		}, 
 	run = run,
     --privileged = true,
