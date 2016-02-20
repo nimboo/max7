@@ -315,7 +315,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Tele Sniper Commands list :
  
 1-banhammer list ^
  
